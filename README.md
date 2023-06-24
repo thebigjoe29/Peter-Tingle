@@ -1,1 +1,3 @@
-# Drawing APP
+# Peter Tingle
+
+### An app to help kids
