@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653590360116",
+    "project_id": "petertingle-aa4fe",
+    "storage_bucket": "petertingle-aa4fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653590360116:android:dce0d521c2b4b7bb181a61",
+        "android_client_info": {
+          "package_name": "com.example.drawing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653590360116-qdfb5rrs6m60u28m1n20gch8djrmsm8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlomVZxgypGB0Ld_Gvvtks_XTHuwBpqME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653590360116-qdfb5rrs6m60u28m1n20gch8djrmsm8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
